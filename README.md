@@ -19,4 +19,4 @@ For beginners , it would be easy if you refer some of the resoures below:
 1. [Github Learning Lab](https://lab.github.com/)
 ## Contributors
 I am KavyaReddy , a graduate student of Applied computer science at Northwest Missouri State University.
-![](https://raw.githubusercontent.com/kavyareddy536886/about-me/master/kavya.JPG)
+![image](kavya.JPG)

@@ -10,7 +10,7 @@ some of the tools required to publish a repo with GitHub Pages are-
 - [firefox](https://www.mozilla.org/en-US/firefox/)
 - [visual studio](https://visualstudio.microsoft.com/)
 - [safari](https://www.apple.com/safari/)
-## Recommended Resources
+##  Recommended Resources
 I have gone through some of the resources which helped me in making github web pages.
 For beginners , it would be easy if you refer some of the resoures below:
 1. [Building Github page](https://pages.github.com/)

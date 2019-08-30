@@ -3,7 +3,7 @@
 - [source repository](https://github.com/kavyareddy536886/about-me)
 - [hosted page](https://kavyareddy536886.github.io/about-me/)
 ## About
-This page have information about tools  which are required for publishing a repository with GitHub pages and also the resourses which are useful to learn how to create web pages.
+This page have information about tools  which are required for publishing a repository with GitHub pages and also the resourses which are useful to learn how to create the web pages.
 ## Recommended Tools
 Visual Studio Code is a dedicated Markdown editor, but has the functionality to be used as one all the same. With a side-by-side HTML preview and extensions to personalize your writing experience, Visual Studio Code is a solid option for developers.
 some of the tools required to publish a repo with GitHub Pages are-
